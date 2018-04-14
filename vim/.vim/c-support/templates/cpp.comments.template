@@ -27,7 +27,7 @@ $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 // =====================================================================================
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == comment.file-description == start ==
-// Copyright (c) 2015 , yogurt.yyj.
+// Copyright (c) 2018 , yogurt.yyj.
 // All rights reserved.
 //
 // Filename:  |FILENAME|
@@ -40,6 +40,10 @@ $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 //
 // Author:  |AUTHOR| (|AUTHORREF|), |EMAIL|
 //
+// If you were a tear-drop in my eye
+// For fear of losing you, I would never cry
+// And if the golden sun should cease to shine its light,
+// Just one smile from you, would make my whole world bright
 
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == comment.file-section-cpp-header-includes  ==
